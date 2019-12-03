@@ -82,3 +82,13 @@
    top:0;
    left:0;
   }
+.text{
+  position: absolute;
+  top:760px;
+  left:350px;
+}
+.home{
+  position: absolute;
+  top:0px;
+  left:800px;
+}
