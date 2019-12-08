@@ -3,13 +3,13 @@
 /* 点滅ボタン */
   .momosada{
     animation: flash 2s linear infinite;
-    width:20px;
-    height:20px;
+    width:49px;
+    height:50px;
     background:red;
     margin:20px;
     position:absolute;
-    top:508px;
-    left:508px;}
+    top:499px;
+    left:495px;}
   .ground{
     animation: flash 1s linear infinite;
     width:20px;
@@ -17,8 +17,8 @@
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:235px;
-    left:470px;}
+    top:335px;
+    left:630px;}
   .approach{
     animation: flash 1s linear infinite;
     width:20px;
@@ -26,43 +26,43 @@
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:585px;
-    left:52px;}
+    top:624px;
+    left:120px;}
   .platform{
     animation: flash 1s linear infinite;
-    width:20px;
-    height:20px;
+    width:360px;
+    height:10px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:465px;
-    left:283px;}
+    top:488px;
+    left:274px;}
   .pilotis{
     animation: flash 1s linear infinite;
-    width:20px;
-    height:20px;
+    width:200px;
+    height:11px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:454px;
-    left:518px;}
+    top:450px;
+    left:330px;}
   .aca{
     animation: flash 1s linear infinite;
     width:20px;
-    height:20px;
+    height:35.5px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:605px;
-    left:508px;}
+    top:571px;
+    left:509.5px;}
   .symmetry{
     animation: flash 1s linear infinite;
-    width:20px;
-    height:150px;
+    width:10px;
+    height:109px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:500px;
+    top:498px;
     left:650px;}
 /* 点滅ボタンここまで */
 
