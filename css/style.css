@@ -58,12 +58,12 @@
   .box07{
     animation: flash 1s linear infinite;
     width:20px;
-    height:20px;
+    height:150px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:605px;
-    left:667px;}
+    top:500px;
+    left:650px;}
 /* 点滅ボタンここまで */
 
 
