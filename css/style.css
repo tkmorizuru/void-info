@@ -1,7 +1,7 @@
 
 
 /* 点滅ボタン */
-  .box01{
+  .momosaza{
     animation: flash 2s linear infinite;
     width:20px;
     height:20px;
@@ -10,7 +10,7 @@
     position:absolute;
     top:508px;
     left:508px;}
-  .box02{
+  .ground{
     animation: flash 1s linear infinite;
     width:20px;
     height:20px;
@@ -19,7 +19,7 @@
     position:absolute;
     top:235px;
     left:470px;}
-  .box03{
+  .approach{
     animation: flash 1s linear infinite;
     width:20px;
     height:20px;
@@ -28,7 +28,7 @@
     position:absolute;
     top:585px;
     left:52px;}
-  .box04{
+  .platform{
     animation: flash 1s linear infinite;
     width:20px;
     height:20px;
@@ -37,7 +37,7 @@
     position:absolute;
     top:465px;
     left:283px;}
-  .box05{
+  .pilotis{
     animation: flash 1s linear infinite;
     width:20px;
     height:20px;
@@ -46,7 +46,7 @@
     position:absolute;
     top:454px;
     left:518px;}
-  .box06{
+  .aca{
     animation: flash 1s linear infinite;
     width:20px;
     height:20px;
@@ -55,7 +55,7 @@
     position:absolute;
     top:605px;
     left:508px;}
-  .box07{
+  .symmetry{
     animation: flash 1s linear infinite;
     width:20px;
     height:150px;
