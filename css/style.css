@@ -82,3 +82,33 @@
    top:0;
    left:0;
   }
+.text{
+  position: absolute;
+  top:760px;
+  left:350px;
+}
+.home{
+  position: absolute;
+  top:0px;
+  left:815px;
+}
+.artscenter{
+  position: absolute;
+  top:320px;
+  left:815px;
+}
+.mukou{
+  position: absolute;
+  top:400px;
+  left:815px;
+}
+.miya{
+  position: absolute;
+  top:480px;
+  left:815px;
+}
+.imao{
+  position: absolute;
+  top:560px;
+  left:815px;
+}
