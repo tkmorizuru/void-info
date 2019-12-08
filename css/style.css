@@ -8,7 +8,7 @@
     background:red;
     margin:20px;
     position:absolute;
-    top:499px;
+    top:497.5px;
     left:495px;}
   .ground{
     animation: flash 1s linear infinite;
@@ -26,16 +26,16 @@
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:624px;
+    top:620px;
     left:120px;}
   .platform{
     animation: flash 1s linear infinite;
     width:360px;
-    height:10px;
+    height:11px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:488px;
+    top:485px;
     left:274px;}
   .pilotis{
     animation: flash 1s linear infinite;
@@ -44,25 +44,25 @@
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:450px;
+    top:448px;
     left:330px;}
   .aca{
     animation: flash 1s linear infinite;
     width:20px;
-    height:35.5px;
+    height:34px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:571px;
+    top:570px;
     left:509.5px;}
   .symmetry{
     animation: flash 1s linear infinite;
     width:10px;
-    height:109px;
+    height:100px;
     background:#0091EA;
     margin:20px;
     position:absolute;
-    top:498px;
+    top:504px;
     left:650px;}
 /* 点滅ボタンここまで */
 
