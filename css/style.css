@@ -1,7 +1,7 @@
 
 
 /* 点滅ボタン */
-  .momosada{
+  .momosaza{
     animation: flash 2s linear infinite;
     width:20px;
     height:20px;
